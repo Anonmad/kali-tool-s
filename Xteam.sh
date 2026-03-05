@@ -17,7 +17,7 @@ apt-get install python
 apt-get install python2
 clear
 echo -e "$Green Created By \e[1;34m"
-       figlet KALI OS' | lolcat
+       figlet X TEAM' | lolcat
 sleep 2.0
 
     echo " "
